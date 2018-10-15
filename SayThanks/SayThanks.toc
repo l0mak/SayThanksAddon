@@ -1,0 +1,5 @@
+## Interface: 80000
+## Title: SayThanks
+## Notes: The Most Thankful AddOn
+code.lua
+loaded.lua
