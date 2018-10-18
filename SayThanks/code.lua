@@ -1,8 +1,5 @@
--- This file is loaded from "SayThanks.toc"
+-- Says thanks for some spells(Original SaySapped AddOn by Bitbyte, modified by m2jest1c and l0mak)
 
-------------------------------------------------------------------------------------------
---	Says thanks for some spells(SaySapped by Bitbyte, modified by m2jest1c)
-------------------------------------------------------------------------------------------
 local spells = {
 	[20484] = true,		-- Rebirth
 	[61999] = true,		-- Raise Ally
