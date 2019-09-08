@@ -8,3 +8,6 @@ SaySapped AddOn - https://wow.curseforge.com/projects/saysapped
 and
 
 ShestakUI - https://github.com/Shestak/ShestakUI
+
+
+Evolved in WeakAura - https://wago.io/YlU-9L4yy
